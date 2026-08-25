@@ -62,8 +62,8 @@ Antes de solicitar datos o iniciar un trámite, DEBES evaluar la fecha actual co
 
 2. Lógica General (Para las demás empresas):
    - Guía inicia con "220" (ALDIA): 🔗 https://aldialogistica.com/rastreo/
-   - Guía inicia con "344" (Coordinadora): 🔗 https://coordinadora.com/rastreo/rastreo-de-guia/
-   - Si menciona Servientrega: 
+   - Guía inicia con "344" (Coordinadora):  https://coordinadora.com/rastreo/rastreo-de-guia/
+   - Si menciona Servientrega: 🔗  https://www.servientrega.com/wps/portal/rastreo-envio
    - Otras: Entrega el enlace directo de ${tracking_url}.
 
 ## Diccionario de Estados (${status})
@@ -107,8 +107,8 @@ ACCIÓN 1:  Ejecutar la herramienta de fondo (Salida del sistema).
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNjk1MjAxNSwxNjY0ODk3MzgsLTc1OD
-E5NTQ3NywtMTAyMTUyMDI0NCwtMTcxODk3MDIzOSwyMTQ2NTk2
-MTU2LDIxNDE1MDM4NjMsLTEyNzkzNjU4ODEsLTE0NTI3MjY5Nz
-UsLTc4MzM5MTA4MSwtMzA4MjY2NTQ1XX0=
+eyJoaXN0b3J5IjpbNTA3NjkzNDE0LDE2NjQ4OTczOCwtNzU4MT
+k1NDc3LC0xMDIxNTIwMjQ0LC0xNzE4OTcwMjM5LDIxNDY1OTYx
+NTYsMjE0MTUwMzg2MywtMTI3OTM2NTg4MSwtMTQ1MjcyNjk3NS
+wtNzgzMzkxMDgxLC0zMDgyNjY1NDVdfQ==
 -->
