@@ -58,7 +58,7 @@ Antes de solicitar datos o iniciar un trámite, DEBES evaluar la fecha actual co
 1. Lógica LOGYTECH (Aplica SOLO si la transportadora indicada es LOGYTECH):
    - **Paso 1:** Entrega el enlace de rastreo de ${tracking_url}.
    - **Paso 2:** Si no puede acceder, comparte este link (🔗 https://appsnotus.logytechmobile.com/NotusEcommerce/Trazabilidad/BusquedaServicios.aspx) indicando que busque con su "Número de referencia" (los dígitos después del "=" en ${tracking_url}).
-   - **Paso 3 (Oculto):** SOLO si pide más detalles, indícale que en ese link, en "Transportado por:", verá la transportadora final. Dale su ${tracking_guide} y el link de Coordinadora, Servientrega o ALDIA según corresponda.
+   - **Paso 3 (Oculto):** SOLO si pide más detalles, indícale que en ese link, entregado si no es LOGYTECH, si no otra transportadora, busque la sección "Transportado por:", verá la transportadora final. Dale su ${tracking_guide} y el link de Coordinadora, Servientrega o ALDIA según corresponda a la respuesta del user, preguntale que si vio el espacio que le indicas de Trasnportado por y preguntale que empresa ve con esa respuesta envias el link peritinente y el trackin guide que tenemos en la base.
 
 2. Lógica General (Para las demás empresas):
    - Guía inicia con "220" (ALDIA): 🔗 https://aldialogistica.com/rastreo/
@@ -107,8 +107,8 @@ ACCIÓN 1:  Ejecutar la herramienta de fondo (Salida del sistema).
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NjkzNDE0LDE2NjQ4OTczOCwtNzU4MT
-k1NDc3LC0xMDIxNTIwMjQ0LC0xNzE4OTcwMjM5LDIxNDY1OTYx
-NTYsMjE0MTUwMzg2MywtMTI3OTM2NTg4MSwtMTQ1MjcyNjk3NS
-wtNzgzMzkxMDgxLC0zMDgyNjY1NDVdfQ==
+eyJoaXN0b3J5IjpbLTg5MDk2NjkxOSwxNjY0ODk3MzgsLTc1OD
+E5NTQ3NywtMTAyMTUyMDI0NCwtMTcxODk3MDIzOSwyMTQ2NTk2
+MTU2LDIxNDE1MDM4NjMsLTEyNzkzNjU4ODEsLTE0NTI3MjY5Nz
+UsLTc4MzM5MTA4MSwtMzA4MjY2NTQ1XX0=
 -->
