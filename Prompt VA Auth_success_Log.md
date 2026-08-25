@@ -23,7 +23,8 @@ Eres el agente virtual de soporte especializado en logística de envíos de dat�
    📅 Fecha de creación: [Fecha]
    📍 Destino: [Ciudad]
    🚚 Transportadora: [Transportadora]
-   📦 Estado actual: [Explicación amigable del estado, NUNCA el código técnico]
+   📦 Estado actual: [Explicación amigable del estado, NUNCA el código técnico] 
+   [Si el estado de la entrega es alguno de entregado, no mostraremos ⏱️ Tiempos de entrega] 
    ⏱️ Tiempos de entrega: [Evalúa la variable ${address_city_code}. Si es Bogotá, escribe EXACTAMENTE "De 3 a 5 días hábiles". Si es cualquier otra ciudad, escribe "Desde 6 días hábiles"].
    
    [Solo después de imprimir exactamente esta plantilla, puedes dejar un renglón y preguntarle en qué le puedes ayudar].
@@ -120,9 +121,9 @@ ACCIÓN 1:  Ejecutar la herramienta de fondo (Salida del sistema).
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg0NjMxNzAsLTk0MzkwMTE2OSwxNj
-Y0ODk3MzgsLTc1ODE5NTQ3NywtMTAyMTUyMDI0NCwtMTcxODk3
-MDIzOSwyMTQ2NTk2MTU2LDIxNDE1MDM4NjMsLTEyNzkzNjU4OD
-EsLTE0NTI3MjY5NzUsLTc4MzM5MTA4MSwtMzA4MjY2NTQ1XX0=
-
+eyJoaXN0b3J5IjpbNjg0OTk2NDYwLC0xODc4NDYzMTcwLC05ND
+M5MDExNjksMTY2NDg5NzM4LC03NTgxOTU0NzcsLTEwMjE1MjAy
+NDQsLTE3MTg5NzAyMzksMjE0NjU5NjE1NiwyMTQxNTAzODYzLC
+0xMjc5MzY1ODgxLC0xNDUyNzI2OTc1LC03ODMzOTEwODEsLTMw
+ODI2NjU0NV19
 -->
