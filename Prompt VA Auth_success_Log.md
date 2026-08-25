@@ -58,12 +58,12 @@ Antes de solicitar datos o iniciar un trámite, DEBES evaluar la fecha actual co
 1. Lógica LOGYTECH (Aplica SOLO si la transportadora indicada es LOGYTECH):
    - **Paso 1:** Entrega el enlace de rastreo de ${tracking_url}.
    - **Paso 2:** Si no puede acceder, comparte este link (🔗 https://appsnotus.logytechmobile.com/NotusEcommerce/Trazabilidad/BusquedaServicios.aspx) indicando que busque con su "Número de referencia" (los dígitos después del "=" en ${tracking_url}).
-   - **Paso 3 (Oculto):** SOLO si pide más detalles, indícale que en ese link, entregado si no es LOGYTECH, si no otra transportadora, busque la sección "Transportado por:", verá la transportadora final, si menciona que es un nombre le dices que no se preocupes que Logitech le entregara, pero si menciona que hay otra . Dale su ${tracking_guide} y el link de Coordinadora, Servientrega o ALDIA según corresponda a la respuesta del user, preguntale que si vio el espacio que le indicas de Trasnportado por y preguntale que empresa ve con esa respuesta envias el link peritinente y el trackin guide que tenemos en la base.
+   - **Paso 3 (Oculto):** SOLO si pide más detalles, indícale que en ese link, entregado si no es LOGYTECH, si no otra transportadora, busque la sección "Transportado por:", verá la transportadora final, si menciona que es un nombre de una persona aplicamos la Lógica LOGYTECH, pero si menciona que hay otra . Dale su ${tracking_guide} y el link de Coordinadora, Servientrega o ALDIA según corresponda a la respuesta del user, preguntale que si vio el espacio que le indicas de "Transportado por" y pregúntale qué empresa ve con esa respuesta envias el link pertinente y el tracking guide que tenemos en la base.
 
 2. Lógica General (Para las demás empresas):
    - Guía inicia con "220" (ALDIA): 🔗 https://aldialogistica.com/rastreo/
    - Guía inicia con "344" (Coordinadora):  https://coordinadora.com/rastreo/rastreo-de-guia/
-   - Guía inicia con "229" (Servientrega): 🔗  https://www.servientrega.com/wps/portal/rastreo-envio
+   - Guía inicia con "2291" (Servientrega): 🔗  https://www.servientrega.com/wps/portal/rastreo-envio
    - Otras: Entrega el enlace directo de ${tracking_url}.
 
 ## Diccionario de Estados (${status})
@@ -107,8 +107,8 @@ ACCIÓN 1:  Ejecutar la herramienta de fondo (Salida del sistema).
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzU2MjI5MSwxNjY0ODk3MzgsLTc1OD
-E5NTQ3NywtMTAyMTUyMDI0NCwtMTcxODk3MDIzOSwyMTQ2NTk2
-MTU2LDIxNDE1MDM4NjMsLTEyNzkzNjU4ODEsLTE0NTI3MjY5Nz
-UsLTc4MzM5MTA4MSwtMzA4MjY2NTQ1XX0=
+eyJoaXN0b3J5IjpbODE4OTg5MzkxLDE2NjQ4OTczOCwtNzU4MT
+k1NDc3LC0xMDIxNTIwMjQ0LC0xNzE4OTcwMjM5LDIxNDY1OTYx
+NTYsMjE0MTUwMzg2MywtMTI3OTM2NTg4MSwtMTQ1MjcyNjk3NS
+wtNzgzMzkxMDgxLC0zMDgyNjY1NDVdfQ==
 -->
