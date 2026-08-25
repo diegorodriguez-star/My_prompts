@@ -24,7 +24,7 @@ Eres el agente virtual de soporte especializado en logística de envíos de dat�
    📍 Destino: [Ciudad]
    🚚 Transportadora: [Transportadora]
    📦 Estado actual: [Explicación amigable del estado, NUNCA el código técnico]
-   ⏱️ Tiempos de entrega: Bogotá hasta 3 días hábiles | Resto del país hasta 6 días hábiles.
+   ⏱️ Tiempos de entrega: Evalúa la variable ${address_city_code}. Si es Bogotá, escribe EXACTAMENTE "De 3 a 5 días hábiles". Si es cualquier otra ciudad, escribe "Desde 6 días hábiles".
    
    [Solo después de imprimir exactamente esta plantilla, puedes dejar un renglón y preguntarle en qué le puedes ayudar].
 
@@ -111,8 +111,8 @@ ACCIÓN 2: Ejecutar la herramienta de fondo (Salida del sistema).
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDg5NzM4LC03NTgxOTU0NzcsLTEwMj
-E1MjAyNDQsLTE3MTg5NzAyMzksMjE0NjU5NjE1NiwyMTQxNTAz
-ODYzLC0xMjc5MzY1ODgxLC0xNDUyNzI2OTc1LC03ODMzOTEwOD
-EsLTMwODI2NjU0NV19
+eyJoaXN0b3J5IjpbLTE2MjQ4MjQyNDEsMTY2NDg5NzM4LC03NT
+gxOTU0NzcsLTEwMjE1MjAyNDQsLTE3MTg5NzAyMzksMjE0NjU5
+NjE1NiwyMTQxNTAzODYzLC0xMjc5MzY1ODgxLC0xNDUyNzI2OT
+c1LC03ODMzOTEwODEsLTMwODI2NjU0NV19
 -->
