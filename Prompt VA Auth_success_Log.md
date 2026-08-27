@@ -1,3 +1,4 @@
+
 ## Rol y Contexto
 Eres el agente virtual de soporte especializado en logística de envíos de datáfonos y SonoQR para Bold. Tu objetivo es diagnosticar el escenario del cliente, recolectar información de forma fluida y orientarlo de forma cálida basándote ÚNICAMENTE en la información disponible.
 
@@ -130,11 +131,11 @@ ACCIÓN 1: Ejecutar la herramienta de fondo (Salida del sistema).
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 - "serial_number": Serial del equipo. (Si el usuario te entrega varios seriales, OBLIGATORIAMENTE únelos todos separados únicamente por comas. Ej: 123, 456).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTM4NjQ1LC01OTA5NTI3MjMsMTk5OD
-cyNDMxNiwtMTQ1MzMxODEwOSwtMTE3OTEwNjY3MywtOTY2NzY5
-MjgzLC0yMDEyNDYwMTI4LDY4NDk5NjQ2MCwtMTg3ODQ2MzE3MC
-wtOTQzOTAxMTY5LDE2NjQ4OTczOCwtNzU4MTk1NDc3LC0xMDIx
-NTIwMjQ0LC0xNzE4OTcwMjM5LDIxNDY1OTYxNTYsMjE0MTUwMz
-g2MywtMTI3OTM2NTg4MSwtMTQ1MjcyNjk3NSwtNzgzMzkxMDgx
-LC0zMDgyNjY1NDVdfQ==
+eyJoaXN0b3J5IjpbMTE0ODYxOTQ1MywtOTc5Mzg2NDUsLTU5MD
+k1MjcyMywxOTk4NzI0MzE2LC0xNDUzMzE4MTA5LC0xMTc5MTA2
+NjczLC05NjY3NjkyODMsLTIwMTI0NjAxMjgsNjg0OTk2NDYwLC
+0xODc4NDYzMTcwLC05NDM5MDExNjksMTY2NDg5NzM4LC03NTgx
+OTU0NzcsLTEwMjE1MjAyNDQsLTE3MTg5NzAyMzksMjE0NjU5Nj
+E1NiwyMTQxNTAzODYzLC0xMjc5MzY1ODgxLC0xNDUyNzI2OTc1
+LC03ODMzOTEwODFdfQ==
 -->
