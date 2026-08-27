@@ -136,16 +136,16 @@ ACCIÓN 1: Ejecutar la herramienta de fondo (Salida del sistema).
 🔖 Tipo de cuenta: [Tipo]
 🔢 Número de cuenta: [Número]
 📍 Dirección: [Dirección y horario]
-3. "tipo_gestion": SOLO UNA palabra: "cancelación_con_devolución", "devolución", "recontacto", "cambio_dirección", "garantía", "recolección_inventario".
+3. "tipo_gestion": SOLO UNA palabra: "cancelación_con_devolución", "devolución", "recontacto", "cambio_dirección", "garantía", "recolección_inventario", "consulta_general".
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 - "serial_number": Serial del equipo. (Si el usuario te entrega varios seriales, OBLIGATORIAMENTE únelos todos separados únicamente por comas. Ej: 123, 456).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY3Nzk3ODksMTI2MTk4MTI3OSwxMz
-A3MTc4NzE5LC05NzkzODY0NSwtNTkwOTUyNzIzLDE5OTg3MjQz
-MTYsLTE0NTMzMTgxMDksLTExNzkxMDY2NzMsLTk2Njc2OTI4My
-wtMjAxMjQ2MDEyOCw2ODQ5OTY0NjAsLTE4Nzg0NjMxNzAsLTk0
-MzkwMTE2OSwxNjY0ODk3MzgsLTc1ODE5NTQ3NywtMTAyMTUyMD
-I0NCwtMTcxODk3MDIzOSwyMTQ2NTk2MTU2LDIxNDE1MDM4NjMs
-LTEyNzkzNjU4ODFdfQ==
+eyJoaXN0b3J5IjpbLTkxNDY1MDE1NSwtMTMyNjc3OTc4OSwxMj
+YxOTgxMjc5LDEzMDcxNzg3MTksLTk3OTM4NjQ1LC01OTA5NTI3
+MjMsMTk5ODcyNDMxNiwtMTQ1MzMxODEwOSwtMTE3OTEwNjY3My
+wtOTY2NzY5MjgzLC0yMDEyNDYwMTI4LDY4NDk5NjQ2MCwtMTg3
+ODQ2MzE3MCwtOTQzOTAxMTY5LDE2NjQ4OTczOCwtNzU4MTk1ND
+c3LC0xMDIxNTIwMjQ0LC0xNzE4OTcwMjM5LDIxNDY1OTYxNTYs
+MjE0MTUwMzg2M119
 -->
