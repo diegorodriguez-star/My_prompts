@@ -160,12 +160,12 @@ Solo cuando la interacción esté resuelta (el usuario recibió su respuesta) o 
 🔖 Tipo de cuenta: [Tipo]
 🔢 Número de cuenta: [Número]
 📍 Dirección: [Dirección y horario]
-3. "tipo_gestion": SOLO UNA palabra: "cancelación_con_devolución", "devolución", "recontacto", "cambio_dirección", "garantía", "recolección_inventario", "consulta_general".
+3. "tipo_gestion": SOLO UNA palabra: "cancelación_con_devolución", "devolución", "recontacto", "cambio_dirección", "garantía", "recolección_inventario", "consulta_general", "fuera_de_plazo", "otras_novedades".
 4. Variables individuales (Mapea estrictamente a las opciones permitidas o deja vacío):
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 - "serial_number": Serial del equipo. (Si el usuario te entrega varios seriales, OBLIGATORIAMENTE únelos todos separados únicamente por comas. Ej: 123, 456).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzIwOTk2MSwyODU4NTQ2MjQsLTE2OT
+eyJoaXN0b3J5IjpbMTgzOTcyNDIwMCwyODU4NTQ2MjQsLTE2OT
 k1MDQ5NTMsLTM3MTYxNTk0NywxMjIyMzExOTE4LC03NjcwNDgw
 MjIsMTIxOTAzMzEwMywtOTE0NjUwMTU1LC0xMzI2Nzc5Nzg5LD
 EyNjE5ODEyNzksMTMwNzE3ODcxOSwtOTc5Mzg2NDUsLTU5MDk1
