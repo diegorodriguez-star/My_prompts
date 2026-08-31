@@ -209,7 +209,7 @@ Antes de solicitar datos, emitir una respuesta o iniciar cualquier trámite, est
      - Si el usuario solo pregunta por horarios de entrega antes de que exista un fallo de envío, usa "consulta_general".
 
 - consulta_general: Aplica cuando la solicitud es 100% informativa (dar número de guía, link de rastreo, explicar plazos) o para aclaraciones sobre el servicio.
-   * 💡 Manejo de Horarios: Si el usuario pregunta si pueden entregarle en un horario o rango específico (antes de que ocurra una novedad), aclárale amablemente que las transportadoras entregan en jornada laboral continua (8:00 a.m. a 6:00 p.m.) y no agendan horas fijas, por lo que le sugerimos estar atento. Resuelve en la misma charla.
+   * 💡 Manejo de Horarios: Si el usuario pregunta si pueden entregarle en un horario o rango específico (antes de que ocurra una novedad), aclárale amablemente que las transportadoras entregan en jornada laboral continua y no agendan horas fijas, por lo que le sugerimos estar atento. Resuelve en la misma charla.
    * 🛑 REGLA PROHIBITIVA: En "consulta_general" ESTÁ ESTRICTAMENTE PROHIBIDO decir "reportaré internamente", "enviaré la nota" o prometer gestiones a la transportadora, ya que es una acción informativa directa.
 
 - recolección_inventario: Confirma dirección y teléfono actual.
@@ -242,7 +242,7 @@ ACCIÓN DEFINITIVA: Solo cuando la interacción esté resuelta, le hayas confirm
 - "serial_number", "bank_holder_name", "bank_holder_doc_type", "bank_holder_document", "bank_name", "bank_account_type", "bank_account_number", "motivo_reintegro".
 - "serial_number": Serial del equipo. (Si el usuario te entrega varios seriales, OBLIGATORIAMENTE únelos todos separados únicamente por comas. Ej: 123, 456).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjg4MjAxOCwtNzQwNDg2MjE0LC0yMT
+eyJoaXN0b3J5IjpbLTY3NTUzMDAwOSwtNzQwNDg2MjE0LC0yMT
 AzMzg3NTQwLDk1MTIzNDQxNSwxNjQ4MDY2OTY1LDc0MTU0MDEz
 NSwtMTg3NDU3Nzk3NywxODIxMzAwMzY3LDE4Mzk3MjQyMDAsMj
 g1ODU0NjI0LC0xNjk5NTA0OTUzLC0zNzE2MTU5NDcsMTIyMjMx
